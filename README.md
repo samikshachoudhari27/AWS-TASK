@@ -6,7 +6,7 @@
 
 **Application Access** — Likely covers how to securely access deployed applications (e.g., via public IP, security groups).
 
-**Load Balancer & Auto Scaling ** — Setups for scaling your app and distributing traffic (e.g., using AWS ELB / Auto Scaling Groups).
+**Load Balancer & Auto Scaling** — Setups for scaling your app and distributing traffic (e.g., using AWS ELB / Auto Scaling Groups).
 
 **Cost Optimization** — Tips or configuration examples for reducing AWS costs (like using spot instances, right-sizing EC2, autoscaling).
 
